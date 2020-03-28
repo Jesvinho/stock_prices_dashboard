@@ -1,2 +1,2 @@
-# stock_prices_dashboard
-Dashboard that displays the stock trends for American Companies for the selected date ranges.
+# Stock Prices Dashboard
+A simple interactive Dashboard displays the stock trends for the companies listed in the American Stock Exchange market.
